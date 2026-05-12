@@ -9,6 +9,8 @@ Python solutions to LeetCode problems.
 | [twosum.py](twosum.py) | Two Sum | Arrays / Hash Map |
 | [palindrome.py](palindrome.py) | Palindrome Number | Math |
 | [substring.py](substring.py) | Longest Substring Without Repeating Characters | Sliding Window |
+| [LongestSubstringWithoutRepeatingCharacters.py](LongestSubstringWithoutRepeatingCharacters.py) | Longest Substring Without Repeating Characters | Sliding Window |
+| [ProductOfArrayExceptSelf.py](ProductOfArrayExceptSelf.py) | Product of Array Except Self | Prefix / Suffix Products |
 | [ValidAnagram.py](ValidAnagram.py) | Valid Anagram | Hash Map |
 | [GroupAnagrams.py](GroupAnagrams.py) | Group Anagrams | Hash Map |
 | [TopKFrequent.py](TopKFrequent.py) | Top K Frequent Elements | Heap / Hash Map |
